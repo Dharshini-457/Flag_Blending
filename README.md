@@ -21,3 +21,5 @@
 
 ## 📌Save the Output The final image, Output.jpg, shows the pattern realistically printed onto the waving flag—just l.🏳
 <aref>[App Link 🏳 :-](http://localhost:8501/)
+
+## Or run app.py
