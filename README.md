@@ -1,3 +1,4 @@
+# 🌀Welcome to this page!!
 
 # 🌀 Mapping a Pattern onto a Waving Flag  🏳
 
@@ -19,3 +20,4 @@
 ## 📌Blend the Pattern Using soft alpha blending, the shaded pattern is overlaid onto the flag. The mask ensures blending occurs only over the cloth area.🏳
 
 ## 📌Save the Output The final image, Output.jpg, shows the pattern realistically printed onto the waving flag—just l.🏳
+<aref>[App Link 🏳 :-](http://localhost:8501/)
