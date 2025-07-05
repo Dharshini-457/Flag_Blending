@@ -106,4 +106,4 @@ st.sidebar.write("Made with ❤️ by [ Developer]")
 st.sidebar.markdown("---")  
 st.sidebar.write("© 2023 Flag Pattern Blending Tool")
 # Add a link to the source code
-st.sidebar.write("[View Source Code](https://github.com/yourusername/your-repo)")           
+st.sidebar.write("[View Source Code](https://github.com/Dharshini-457/Warping_design.git)")           
