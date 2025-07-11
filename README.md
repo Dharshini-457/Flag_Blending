@@ -20,6 +20,6 @@
 ## 📌Blend the Pattern Using soft alpha blending, the shaded pattern is overlaid onto the flag. The mask ensures blending occurs only over the cloth area.🏳
 
 ## 📌Save the Output The final image, Output.jpg, shows the pattern realistically printed onto the waving flag—just l.🏳
-<aref>[App Link 🏳 :-](http://localhost:8501/)
+<aref>[App Link 🏳 :-](https://3xs7f8m2-8501.inc1.devtunnels.ms/)
 
 ## Or run app.py
