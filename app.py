@@ -90,9 +90,9 @@ st.sidebar.write("""
 with st.sidebar:
     st.header("Example Images")
     st.write("You can use the following example images:")
-    st.image("C:\\Users\\dhars\\OneDrive\\Pictures\\flag.jpg", caption="Example Flag", use_column_width=True)
-    st.image("C:\\Users\\dhars\\OneDrive\\Pictures\\pattern.jpg", caption="Example Pattern", use_column_width=True)
-    st.image("C:\\Users\\dhars\\OneDrive\\Pictures\\output_flag.jpg", caption="Example Output", use_column_width=True)
+    st.image("flag.jpg", caption="Example Flag", use_column_width=True)
+    st.image("pattern.jpg", caption="Example Pattern", use_column_width=True)
+    st.image("Sampleoutput.jpg", caption="Example Output", use_column_width=True)
     st.write("You can also upload your own images.")
 
     with st.spinner("Loading..."):
